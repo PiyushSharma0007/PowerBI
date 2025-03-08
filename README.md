@@ -17,6 +17,4 @@ This dataset provides insights into airport operations, covering flight statisti
    - Other terminals also experienced an increase in passenger volume.  
 5. **Flight Trends by Month**: Daily flight operations show fluctuations, with peaks reaching **28 flights per day**.  
 
-This dataset can be used for analyzing airport efficiency, airline performance, passenger distribution, and identifying operational bottlenecks.  
-
-Would you like me to generate a detailed analysis or visualization based on this data?
+This dataset can be used for analyzing airport efficiency, airline performance, passenger distribution, and identifying operational bottlenecks. 
